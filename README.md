@@ -4,7 +4,7 @@ Construct a predictive model to accurately predict the patients who have diabete
 
 
 ### Output
-![image]()
+![image](https://github.com/house40105/Explore_Data_Analysis/blob/main/Histogram%20of%20BMI.png)
 
 ![image]()
 
