@@ -8,4 +8,4 @@ Construct a predictive model to accurately predict the patients who have diabete
 
 ![image](https://github.com/house40105/Explore_Data_Analysis/blob/main/Histogram%20of%20diastolic%20blood%20pressure.png)
 
-![image]()
+![image](https://github.com/house40105/Explore_Data_Analysis/blob/main/Histogram%20of%20plasma%20glucose%20concentration.png)
